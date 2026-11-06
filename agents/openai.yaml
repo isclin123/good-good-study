@@ -1,0 +1,7 @@
+interface:
+  display_name: "Good Good Study · 通用学习教练"
+  short_description: "任何主题都能从目标与基础开始，结合分工教学、练习反馈和长期记忆持续进步"
+  default_prompt: "使用 $good-good-study 带我学习想掌握的主题，根据我的目标和基础安排教学、练习与长期记忆。"
+
+policy:
+  allow_implicit_invocation: true

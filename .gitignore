@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Local settings and credentials
+.env
+.env.*
+.DS_Store
+.codex/project-memory/
+
+# Private learning data and generated artifacts
+data/
+reports/
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+PROJECT_STATE.md
